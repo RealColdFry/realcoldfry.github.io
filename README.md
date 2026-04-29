@@ -1,2 +1,5 @@
-realcoldfry.github.io
-[https://github.com/RealColdFry/realcoldfry.github.io](https://github.com/RealColdFry/realcoldfry.github.io)
+## Cold Fry
+
+### Posts
+
+- [TypeScript 7 migration notes](ts7/migration.md)
